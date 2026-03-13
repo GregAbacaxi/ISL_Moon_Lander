@@ -1,0 +1,8 @@
+gymnasium
+stable-baselines3
+numpy
+# PyTorch: escolha a build adequada para seu sistema (CPU / CUDA).
+# Recomendo instalar PyTorch separadamente seguindo https://pytorch.org/.
+torch
+torchvision
+torchaudio
